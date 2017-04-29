@@ -1,0 +1,28 @@
+{
+  "name": "module-stats",
+  "version": "1.0.0",
+  "description": "A web crawler that collects stats from NPM and Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eenewbsauce/module-stats.git"
+  },
+  "keywords": [
+    "npm stats",
+    "github stats"
+  ],
+  "author": "eenewbsauce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eenewbsauce/module-stats/issues"
+  },
+  "homepage": "https://github.com/eenewbsauce/module-stats#readme",
+  "dependencies": {
+    "async": "^2.3.0",
+    "osmosis": "^1.1.4"
+  }
+}
