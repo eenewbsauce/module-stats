@@ -23,6 +23,7 @@
   "homepage": "https://github.com/eenewbsauce/module-stats#readme",
   "dependencies": {
     "async": "^2.3.0",
-    "osmosis": "^1.1.4"
+    "osmosis": "^1.1.4",
+    "ramda": "^0.23.0"
   }
 }
