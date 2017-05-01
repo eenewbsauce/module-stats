@@ -1,6 +1,6 @@
 {
-  "name": "module-stats",
-  "version": "1.0.1",
+  "name": "node-module-stats",
+  "version": "1.0.0",
   "description": "A web crawler that collects stats from NPM and Github",
   "main": "./lib/index.js",
   "scripts": {
