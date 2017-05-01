@@ -2,7 +2,7 @@
   "name": "module-stats",
   "version": "1.0.0",
   "description": "A web crawler that collects stats from NPM and Github",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "start": "node index",
     "test": "mocha --recursive tests"
